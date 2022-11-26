@@ -6,8 +6,8 @@
 
 #include <dt-bindings/clock/stm32mp1-clksrc.h>
 #include <dt-bindings/power/stm32mp1-power.h>
+#include "stm32mp15xxaa-onekiwi-pinctrl.dtsi"
 #include "stm32mp15-ddr3-2x4Gb-1066-binG.dtsi"
-#include "stm32mp157a-ed2-com.dtsi"
 
 / {
 	memory@c0000000 {
